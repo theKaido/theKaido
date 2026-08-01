@@ -80,8 +80,10 @@ Self-hosted infrastructure on a Ryzen 7 3800X box.
 **Stack:** Ubuntu Server · Docker  
 *Learning path: Docker → Kubernetes → AWS. Nothing beats breaking your own cluster at 2am.*
 
-### 📊 [`s-p500-analysis`](https://github.com/komi-raw/s-p500-analysis) *(collab)*
-S&P 500 data analysis project. **JavaScript.**
+### 📊 [`s-p500-analysis`](https://github.com/komi-raw/s-p500-analysis) — University group project
+LLM-powered stock market prediction platform. Users can forecast individual stock trajectories and get AI-generated analysis across grouped tickers.  
+**Stack:** FastAPI (backend) · JavaScript (frontend) · LLMs (integration)  
+*My part: FastAPI backend endpoints, integrating my teammates' LLMs into a unified pipeline, and building the frontend that consumes the API.*
 
 ---
 
