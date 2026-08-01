@@ -12,13 +12,13 @@ apprenticeship at **Infopro Digital** — Automotive division.
 
 **Backend** — Python · FastAPI · SQLAlchemy · SQL Server · PostgreSQL  
 **Frontend** — Vue 3 · AG Grid · TypeScript  
-**DevOps** — Docker · GitLab CI/CD · k3s · Cloudflare Tunnel  
+**DevOps** — Docker · GitLab CI/CD 
 
 #### 🚀 What I'm working on
 
 - 🏭 **trf_prod** — production app at Infopro (FastAPI + Vue 3, internal)
 - 🍽️ **[allergene_qr_generator](https://github.com/theKaido/allergene_qr_generator)** — allergen QR codes, FastAPI + Vue + Supabase
-- 🖥️ **Homelab** — Ryzen 3800X running Ubuntu + k3s, exposed via Cloudflare Tunnel
+- 🖥️ **Homelab** — Ryzen 3800X running Ubuntu and training with k3s
 
 #### 📫 Reach me
 
