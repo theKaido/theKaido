@@ -88,11 +88,6 @@ S&P 500 data analysis project. **JavaScript.**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theKaido&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Jonny's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theKaido&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=theKaido&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
