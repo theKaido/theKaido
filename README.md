@@ -66,9 +66,9 @@ I ship production software — backend APIs, reactive frontends, and the CI/CD p
 ## 🚀 Featured Projects
 
 ### 🏭 `trf_prod` — Production platform at Infopro Digital *(private)*
-Internal production application for the Automotive division.  
+Internal production application for the Automotive division, built to be rolled out to other clients.  
 **Stack:** FastAPI · SQLAlchemy · SQL Server · Vue 3 · AG Grid · Docker · GitLab CI/CD  
-*3 years of hands-on work: backend architecture, frontend features, pipeline maintenance.*
+*3 years of hands-on work: backend architecture, frontend features, and CI/CD. Built a multi-criteria VIN search that cut vehicle lookup from minutes to seconds, and progressively rewrote a legacy Java codebase to FastAPI + Vue 3 without service interruption.*
 
 ### 🍽️ [`allergene_qr_generator`](https://github.com/theKaido/allergene_qr_generator)
 Restaurants generate a QR code that lets diners scan a dish and see its allergens.  
