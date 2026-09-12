@@ -100,7 +100,6 @@ Self-hosted infrastructure on a Ryzen 7 3800X box.
 Available now for **CDI opportunities**, full-stack or backend software engineering, ideally in a team where correctness matters.
 
 - 💼 [LinkedIn](https://linkedin.com/in/jonny-mathanaruban)
-- 🐙 [GitHub](https://github.com/theKaido)
 
 ---
 
