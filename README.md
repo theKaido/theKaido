@@ -70,11 +70,6 @@ Internal production application for the Automotive division, built to be rolled 
 **Stack** — FastAPI · SQLAlchemy · SQL Server · Vue 3 · AG Grid · Docker · GitLab CI/CD
 *3 years of hands-on work covering backend architecture, frontend features, and CI/CD. Built a multi-criteria VIN search that cut vehicle lookup from minutes to seconds, and progressively rewrote a legacy Java codebase to FastAPI + Vue 3 without service interruption.*
 
-### 🧠 [`PredicCat`](https://github.com/theKaido/PredicCat), NLP genre classifier
-Video-game genre classifier from scraped descriptions, fine-tuned BERT with 5 output classes.
-**Stack** — Python · Hugging Face Transformers · pandas
-*Data scraped from Instant Gaming and cleaned by hand (~1500 rows), fine-tuning on top of a pre-trained BERT.*
-
 ### 🍽️ [`allergene_qr_generator`](https://github.com/theKaido/allergene_qr_generator)
 Restaurants generate a QR code that lets diners scan a dish and see its allergens.
 **Stack** — FastAPI · Vue 3 · PostgreSQL · Supabase (maybe later) · JWT auth (OAuth2 password flow)
@@ -105,7 +100,6 @@ Self-hosted infrastructure on a Ryzen 7 3800X box.
 Available now for **CDI opportunities**, full-stack, backend-leaning, ideally in a team where correctness matters.
 
 - 💼 [LinkedIn](https://linkedin.com/in/jonny-mathanaruban)
-- 🐙 [GitHub](https://github.com/theKaido)
 
 ---
 
