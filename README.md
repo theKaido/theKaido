@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer;FastAPI+%2B+Vue+3+%7C+Docker+%7C+GitLab+CI%2FCD;Available+for+CDI+%E2%80%94+September+2026" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer;FastAPI+%2B+Vue+3+%7C+Docker+%7C+GitLab+CI%2FCD;Open+to+full-stack+CDI+roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,24 +12,24 @@
   <a href="https://linkedin.com/in/jonny-mathanaruban">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:jonnymthdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Île--de--France-0A5FBF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-%C3%8Ele--de--France-0A5FBF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
 
 ## 👨‍💻 About
 
-Full-stack developer finishing my **M2 *Logiciels Sûrs*** at **UPEC** through a 3-year apprenticeship at **Infopro Digital** (Automotive division, Gentilly).
+Full-stack developer, just completed my **M2 *Logiciels Sûrs*** at **UPEC** through a 3-year apprenticeship at **Infopro Digital** (Automotive division, Gentilly).
 
-I ship production software — backend APIs, reactive frontends, and the CI/CD pipelines that hold it all together. I care about clean architecture, safe code, and shipping things that actually work.
+I ship production software, backend APIs, reactive frontends, and the CI/CD pipelines that hold it all together. I care about clean architecture, safe code, and shipping things that actually work.
 
-- 🎓 **Thesis defense:** late August 2026
-- 💼 **Available for CDI:** September 2026
-- 🌱 **Currently learning:** deeper math foundations & ML/AI fundamentals
-- 🏗️ **Ask me about:** FastAPI internals, SQLAlchemy patterns, Vue 3 + AG Grid, k3s
+- 🎓 **M2 obtained:** September 2026
+- 💼 **Available now** for CDI opportunities
+- 🌱 **Currently learning** deeper math foundations and ML/AI fundamentals
+- 🏗️ Happy to talk FastAPI internals, SQLAlchemy patterns, Vue 3 + AG Grid, or k3s
 
 ---
 
@@ -65,25 +65,30 @@ I ship production software — backend APIs, reactive frontends, and the CI/CD p
 
 ## 🚀 Featured Projects
 
-### 🏭 `trf_prod` — Production platform at Infopro Digital *(private)*
-Internal production application for the Automotive division, built to be rolled out to other clients.  
-**Stack:** FastAPI · SQLAlchemy · SQL Server · Vue 3 · AG Grid · Docker · GitLab CI/CD  
-*3 years of hands-on work: backend architecture, frontend features, and CI/CD. Built a multi-criteria VIN search that cut vehicle lookup from minutes to seconds, and progressively rewrote a legacy Java codebase to FastAPI + Vue 3 without service interruption.*
+### 🏭 `trf_prod`, production platform at Infopro Digital *(private)*
+Internal production application for the Automotive division, built to be rolled out to other clients.
+**Stack** — FastAPI · SQLAlchemy · SQL Server · Vue 3 · AG Grid · Docker · GitLab CI/CD
+*3 years of hands-on work covering backend architecture, frontend features, and CI/CD. Built a multi-criteria VIN search that cut vehicle lookup from minutes to seconds, and progressively rewrote a legacy Java codebase to FastAPI + Vue 3 without service interruption.*
+
+### 🧠 [`PredicCat`](https://github.com/theKaido/PredicCat), NLP genre classifier
+Video-game genre classifier from scraped descriptions, fine-tuned BERT with 5 output classes.
+**Stack** — Python · Hugging Face Transformers · pandas
+*Data scraped from Instant Gaming and cleaned by hand (~1500 rows), fine-tuning on top of a pre-trained BERT.*
 
 ### 🍽️ [`allergene_qr_generator`](https://github.com/theKaido/allergene_qr_generator)
-Restaurants generate a QR code that lets diners scan a dish and see its allergens.  
-**Stack:** FastAPI · Vue 3 · PostgreSQL · Supabase(Not now maybe later) · JWT auth (OAuth2 password flow)  
+Restaurants generate a QR code that lets diners scan a dish and see its allergens.
+**Stack** — FastAPI · Vue 3 · PostgreSQL · Supabase (maybe later) · JWT auth (OAuth2 password flow)
 *Monorepo, Gitflow, JWT-secured routes with per-restaurant scoping.*
 
-### 🖥️ Personal Homelab
-Self-hosted infrastructure on a Ryzen 7 3800X box.  
-**Stack:** Ubuntu Server · Docker  
-*Learning path: Docker → Kubernetes → AWS. Nothing beats breaking your own cluster at 2am.*
+### 📊 [`s-p500-analysis`](https://github.com/komi-raw/s-p500-analysis), university group project
+LLM-powered stock market prediction platform. Users can forecast individual stock trajectories and get AI-generated analysis across grouped tickers.
+**Stack** — FastAPI (backend) · JavaScript (frontend) · LLMs (integration)
+*My part covered FastAPI backend endpoints, integrating my teammates' LLMs into a unified pipeline, and building the frontend that consumes the API.*
 
-### 📊 [`s-p500-analysis`](https://github.com/komi-raw/s-p500-analysis) — University group project
-LLM-powered stock market prediction platform. Users can forecast individual stock trajectories and get AI-generated analysis across grouped tickers.  
-**Stack:** FastAPI (backend) · JavaScript (frontend) · LLMs (integration)  
-*My part: FastAPI backend endpoints, integrating my teammates' LLMs into a unified pipeline, and building the frontend that consumes the API.*
+### 🖥️ Personal Homelab
+Self-hosted infrastructure on a Ryzen 7 3800X box.
+**Stack** — Ubuntu Server · Docker · k3s · Cloudflare Tunnel
+*Learning path from Docker to Kubernetes to AWS. Nothing beats breaking your own cluster at 2am.*
 
 ---
 
@@ -97,7 +102,7 @@ LLM-powered stock market prediction platform. Users can forecast individual stoc
 
 ## 📫 Let's connect
 
-Currently open to **CDI opportunities** starting September 2026 — full-stack, backend-leaning, ideally in a team where correctness matters.
+Available now for **CDI opportunities**, full-stack, backend-leaning, ideally in a team where correctness matters.
 
 - 💼 [LinkedIn](https://linkedin.com/in/jonny-mathanaruban)
 - 🐙 [GitHub](https://github.com/theKaido)
@@ -111,16 +116,16 @@ Currently open to **CDI opportunities** starting September 2026 — full-stack, 
 
 ### Salut, moi c'est Jonny 👋
 
-Développeur full-stack en dernière année de **M2 *Logiciels Sûrs*** à l'**UPEC**, en alternance depuis 3 ans chez **Infopro Digital** (pôle Automotive, Gentilly).
+Développeur full-stack, je viens de terminer mon **M2 *Logiciels Sûrs*** à l'**UPEC**, obtenu via 3 ans d'alternance chez **Infopro Digital** (pôle Automotive, Gentilly).
 
-Je livre du logiciel en production — APIs backend, frontends réactifs, et les pipelines CI/CD qui font tenir l'ensemble. J'aime l'architecture propre, le code sûr, et les choses qui fonctionnent vraiment.
+Je livre du logiciel en production, APIs backend, frontends réactifs, et les pipelines CI/CD qui font tenir l'ensemble. J'aime l'architecture propre, le code sûr, et les choses qui fonctionnent vraiment.
 
-- 🎓 **Soutenance :** fin août 2026
-- 💼 **Disponible en CDI :** septembre 2026
+- 🎓 **M2 obtenu** en septembre 2026
+- 💼 **Disponible immédiatement** en CDI
 - 📍 **Basé en Île-de-France** (Marly-le-Roi)
-- 🛠️ **Stack de prédilection :** FastAPI · SQLAlchemy · Vue 3 · Docker · GitLab CI/CD
+- 🛠️ Stack de prédilection, FastAPI · SQLAlchemy · Vue 3 · Docker · GitLab CI/CD
 
-**Ouvert aux opportunités CDI** à partir de septembre 2026 — full-stack, orientation backend, dans une équipe où la rigueur compte.
+**Ouvert aux opportunités CDI**, full-stack, orientation backend, dans une équipe où la rigueur compte.
 
 📫 [LinkedIn](https://linkedin.com/in/jonny-mathanaruban)
 
