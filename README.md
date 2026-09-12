@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer;FastAPI+%2B+Vue+3+%7C+Docker+%7C+GitLab+CI%2FCD;Open+to+full-stack+CDI+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer;FastAPI+%2B+Vue+3+%7C+Docker+%7C+GitLab+CI%2FCD;Open+to+full-stack+or+backend+software+engineering+roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ Full-stack developer, just completed my **M2 *Logiciels Sûrs*** at **UPEC** thr
 
 I ship production software, backend APIs, reactive frontends, and the CI/CD pipelines that hold it all together. I care about clean architecture, safe code, and shipping things that actually work.
 
-- 🎓 **M2 obtained:** September 2026
+- 🎓 **M2 obtained** in September 2026
 - 💼 **Available now** for CDI opportunities
 - 🌱 **Currently learning** deeper math foundations and ML/AI fundamentals
 - 🏗️ Happy to talk FastAPI internals, SQLAlchemy patterns, Vue 3 + AG Grid, or k3s
@@ -70,11 +70,6 @@ Internal production application for the Automotive division, built to be rolled 
 **Stack** — FastAPI · SQLAlchemy · SQL Server · Vue 3 · AG Grid · Docker · GitLab CI/CD
 *3 years of hands-on work covering backend architecture, frontend features, and CI/CD. Built a multi-criteria VIN search that cut vehicle lookup from minutes to seconds, and progressively rewrote a legacy Java codebase to FastAPI + Vue 3 without service interruption.*
 
-### 🧠 [`PredicCat`](https://github.com/theKaido/PredicCat), NLP genre classifier
-Video-game genre classifier from scraped descriptions, fine-tuned BERT with 5 output classes.
-**Stack** — Python · Hugging Face Transformers · pandas
-*Data scraped from Instant Gaming and cleaned by hand (~1500 rows), fine-tuning on top of a pre-trained BERT.*
-
 ### 🍽️ [`allergene_qr_generator`](https://github.com/theKaido/allergene_qr_generator)
 Restaurants generate a QR code that lets diners scan a dish and see its allergens.
 **Stack** — FastAPI · Vue 3 · PostgreSQL · Supabase (maybe later) · JWT auth (OAuth2 password flow)
@@ -102,7 +97,7 @@ Self-hosted infrastructure on a Ryzen 7 3800X box.
 
 ## 📫 Let's connect
 
-Available now for **CDI opportunities**, full-stack, backend-leaning, ideally in a team where correctness matters.
+Available now for **CDI opportunities**, full-stack or backend software engineering, ideally in a team where correctness matters.
 
 - 💼 [LinkedIn](https://linkedin.com/in/jonny-mathanaruban)
 - 🐙 [GitHub](https://github.com/theKaido)
@@ -125,7 +120,7 @@ Je livre du logiciel en production, APIs backend, frontends réactifs, et les pi
 - 📍 **Basé en Île-de-France** (Marly-le-Roi)
 - 🛠️ Stack de prédilection, FastAPI · SQLAlchemy · Vue 3 · Docker · GitLab CI/CD
 
-**Ouvert aux opportunités CDI**, full-stack, orientation backend, dans une équipe où la rigueur compte.
+**Ouvert aux opportunités CDI**, full-stack ou ingénieur logiciel orienté backend, dans une équipe où la rigueur compte.
 
 📫 [LinkedIn](https://linkedin.com/in/jonny-mathanaruban)
 
