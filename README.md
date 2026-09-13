@@ -70,7 +70,7 @@ Internal production application for the Automotive division, built to be rolled 
 **Stack** — FastAPI · SQLAlchemy · SQL Server · Vue 3 · AG Grid · Docker · GitLab CI/CD
 *3 years of hands-on work covering backend architecture, frontend features, and CI/CD. Built a multi-criteria VIN search that cut vehicle lookup from minutes to seconds, and progressively rewrote a legacy Java codebase to FastAPI + Vue 3 without service interruption.*
 
-### 🍽️ [`allergene_qr_generator`](https://github.com/theKaido/allergene_qr_generator)
+### 🍽️ [`Kaleidogram`](https://github.com/theKaido/allergene_qr_generator)
 Restaurants generate a QR code that lets diners scan a dish and see its allergens.
 **Stack** — FastAPI · Vue 3 · PostgreSQL · Supabase (maybe later) · JWT auth (OAuth2 password flow)
 *Monorepo, Gitflow, JWT-secured routes with per-restaurant scoping.*
