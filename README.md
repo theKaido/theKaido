@@ -75,7 +75,7 @@ Restaurants generate a QR code that lets diners scan a dish and see its allergen
 **Stack** — FastAPI · Vue 3 · PostgreSQL · Supabase (maybe later) · JWT auth (OAuth2 password flow)
 *Monorepo, Gitflow, JWT-secured routes with per-restaurant scoping.*
 
-### 📊 [`s-p500-analysis`](https://github.com/komi-raw/s-p500-analysis), university group project
+### 📊 [`s-p500-analysis`](https://github.com/theKaido/s-p500-analysis), university group project
 LLM-powered stock market prediction platform. Users can forecast individual stock trajectories and get AI-generated analysis across grouped tickers.
 **Stack** — FastAPI (backend) · JavaScript (frontend) · LLMs (integration)
 *My part covered FastAPI backend endpoints, integrating my teammates' LLMs into a unified pipeline, and building the frontend that consumes the API.*
