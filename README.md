@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer;FastAPI+%2B+Vue+3+%7C+Docker+%7C+GitLab+CI%2FCD;Open+to+backend+or+full-stack+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer;FastAPI+%2B+Vue+3+%7C+Docker+%7C+CI%2FCD;Open+to+backend+or+full-stack+roles" alt="Typing SVG" />
   </a>
 </p>
 
