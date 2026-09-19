@@ -126,7 +126,3 @@ Je livre du logiciel en production, APIs backend, frontends réactifs, et les pi
 </details>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theKaido&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
