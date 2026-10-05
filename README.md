@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About
 
-Full-stack developer, just completed my **M2 *Logiciels Sûrs*** at **UPEC** through a 3-year apprenticeship at **Infopro Digital** (Automotive division, Gentilly).
+Full-stack developer, just completed my **M2 *Logiciels Sûrs*** at **UPEC** through a 2-year apprenticeship at **Infopro Digital** (Automotive division, Gentilly).
 
 I ship production software, backend APIs, reactive frontends, and the CI/CD pipelines that hold it all together. I care about clean architecture, safe code, and shipping things that actually work.
 
@@ -110,7 +110,7 @@ Available now for **CDI opportunities**, full-stack or backend software engineer
 
 ### Salut, moi c'est Jonny 👋
 
-Développeur full-stack, je viens de terminer mon **M2 *Logiciels Sûrs*** à l'**UPEC**, obtenu via 3 ans d'alternance chez **Infopro Digital** (pôle Automotive, Gentilly).
+Développeur full-stack, je viens de terminer mon **M2 *Logiciels Sûrs*** à l'**UPEC**, obtenu via 2 ans d'alternance chez **Infopro Digital** (pôle Automotive, Gentilly).
 
 Je livre du logiciel en production, APIs backend, frontends réactifs, et les pipelines CI/CD qui font tenir l'ensemble. J'aime l'architecture propre, le code sûr, et les choses qui fonctionnent vraiment.
 
